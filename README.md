@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bill Oloja, also known as @Vilends
 - 👀 I’m interested in web development and software engineering.
-- 🌱 I’m currently learning front end technologies and best practices in web and app development.
+- 🌱 I’m currently learning back end technologies and best practices in web and app development.
 - 💞️ I’m looking to collaborate on new and inresting projects and chalenges.
 - 📫 How to reach me :billoloja@gmail.com/billoloja@yahoo.com
 - 😄 Pronouns: He/Him😀
